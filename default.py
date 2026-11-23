@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 SERVER = "https://allinoneextractor-production.up.railway.app"
 
 # Apne GitHub repo ka Raw URL yahan daalna (branch main ya master)
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/hawkins-verse/YOUR_REPO_NAME/main"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/hawkins-verse/KODI_ADDON_WEBSITE/refs/heads/main"
 
 SITES = [
     {"id": "movies4u",    "name": "Movies4u",     "api": "/movies4u-api",
